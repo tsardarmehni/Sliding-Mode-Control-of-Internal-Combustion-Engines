@@ -23,7 +23,7 @@ This repository includes one **Simulink** file, one **MATLAB** m-file, and one m
 - Subsystem 4: oxygen sensor
 This file is saved as Simulink 8.4 MATLAB 2014b, so you **MUST** have at least MATLAB 2014b installed on your machine to run it.
  
-Interested readers are referred to the following papers/books: 
+Interested readers are referred to section 6 of the following paper: 
 - https://link.springer.com/article/10.1016/j.acme.2013.05.003.
 
 2. The m-file, "engine_initials_smc.m," includes all the parameters in the engine model. You **MUST** run this file first. Otherwise, the simulink file will not work.
