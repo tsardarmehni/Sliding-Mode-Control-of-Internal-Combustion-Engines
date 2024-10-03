@@ -9,7 +9,7 @@ In this project, we provide a sliding mode control to regulate lambda at the sto
 Therefore, we define the sliding surface as the difference between the lambda from the oxygen sensor and the desired value. 
 The equivalent control can be defined by equating the sliding surface and the time derivative of the sliding surface to zero. 
 
-I want to point out that interested readers are referred to the following paper for more details. 
+I want to point out that interested readers are referred to section 6 of the following paper for more details. 
 https://link.springer.com/article/10.1016/j.acme.2013.05.003.
 
 
